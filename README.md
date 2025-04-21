@@ -1,8 +1,5 @@
 # Detectify-CICIDS2017
-Your documentation is already clear and informative! Here's a lightly refined version with improved flow, consistency, and formatting while keeping all technical and instructional details intact:
-
 ---
-
 # CICIDS 2017 Repository
 
 ## 📊 Overview
