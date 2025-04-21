@@ -81,6 +81,3 @@ You can find more information at the [CICIDS 2017 official dataset page](https:/
 ## 📝 License
 This project is licensed under the **MIT License**.
 
----
-
-Let me know if you’d like to turn this into a `README.md` file, or generate badges and visuals for GitHub!
